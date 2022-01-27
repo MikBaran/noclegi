@@ -1,0 +1,20 @@
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+.menuItem {
+    display: inline-block;
+}
+.menuItem a {
+    color: #6c757d;
+    margin-right: 15px;
+}
+.menuContainer {
+    border: 1px solid #cdcdcd;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: gainsboro;
+}
